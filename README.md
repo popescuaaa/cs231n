@@ -12,7 +12,8 @@ Conv nets for visual recognition
     - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
-    
+  
+> Work with branches!!!!!!!!!
 
 ## Progress
 
